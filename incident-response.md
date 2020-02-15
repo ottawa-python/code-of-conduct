@@ -1,10 +1,10 @@
 :point_left: [Come back to index](README.md)
 
-# Chicago Python User Group(ChiPy) Code of Conduct
+# Ottawa Python Authors Group(OPAG) Code of Conduct
 
 ## Incident response guide
 
-This document aims to present the way ChiPy handles received reports. This is
+This document aims to present the way OPAG handles received reports. This is
 not a complete guide, but a set of guidelines and best practices that guide the
 way we provide support to the community. Each issue is different and requires
 individual consideration on a case-to-case basis.
@@ -14,12 +14,12 @@ individual consideration on a case-to-case basis.
 The intent of incident response is to provide a guideline for how to
 respond to Code of Conduct issues while they are happening.
 Regardless of the severity of the incident, a report should be
-sent to chipy.conduct@gmail.com as soon as is convenient.
+sent to opag.conduct@gmail.com as soon as is convenient.
 
 1. If there is immediate danger or you are unsure, contact
    security or local law enforcement.
 2. If the incident is ongoing and you want to resolve it now,
-   alert a member of the ChiPy Code of Conduct committee.
+   alert an OPAG organizer.
 3. Otherwise just send an incident report as soon as is convenient.
    Responses will be handled according to the
    [Report Handling Procedure](./report-handling-procedure.md)
@@ -47,7 +47,7 @@ Do not pressure the reporter to take any action if they do not want to do it.
 Respect the reporter's privacy by not sharing unnecessary details with others,
 especially individuals who were not involved with the situation or non-staff members.
 
-Reports should be sent to chipy.conduct@gmail.com as soon as practical.
+Reports should be sent to opag.conduct@gmail.com as soon as practical.
 The report should include as much of the following as you can remember:
 - Identifying information (name/badge number) of the participant
 - The time the incident was reported
@@ -59,9 +59,9 @@ The report should include as much of the following as you can remember:
 
 #### Warnings
 
-Any member of the Chipy Code of Conduct Committee can issue a verbal warning
-to a participant that their behavior violates ChiPy’s code of conduct.
-Warnings should be logged via an email to to chipy.conduct@gmail.com as
+Any OPAG organizer member can issue a verbal warning
+to a participant that their behavior violates OPAG’s code of conduct.
+Warnings should be logged via an email to to opag.conduct@gmail.com as
 soon as practical.
 The report should include as much of the following as you can remember:
 
@@ -76,8 +76,8 @@ The report should include as much of the following as you can remember:
 #### Presentations
 
 Presentations or similar events need not be stopped for one-time gaffes
-or minor problems, although one of the Chipy Code of Conduct Committee
-should speak to the presenter afterward. However, a committee member
+or minor problems, although one of the OPAG organizers
+should speak to the presenter afterward. However, an OPAG organizer
 should take immediate action to politely and calmly stop any
 presentation or event that repeatedly or seriously violates the
 Code of Conduct.  For example, simply say *"I'm sorry, this presentation

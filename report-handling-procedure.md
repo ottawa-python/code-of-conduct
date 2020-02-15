@@ -1,20 +1,20 @@
 :point_left: [Come back to index](README.md)
 
-# Chicago Python User Group(ChiPy) Code of Conduct
+# Ottawa Python Authors Group(OPAG) Code of Conduct
 
 ## Report handling procedure
 
-This document aims to present the way ChiPy handles received reports. This is
+This document aims to present the way OPAG handles received reports. This is
 not a complete guide, but a set of guidelines and best practices that advise the
 way we provide support to the community. Each issue is different and requires
 individual consideration on a case-to-case basis.
 
 ### How we receive reports
 
-All reports sent to the [chipy.conduct@gmail.com](mailto:chipy.conduct@gmail.com)
+All reports sent to the [opag.conduct@gmail.com](mailto:opag.conduct@gmail.com)
 email address are automatically forwarded to the on-call receivers of complaints.
 
-It is possible for a member to receive a report individually via email, Slack or
+It is possible for a member to receive a report individually via email, gitter or
 in-person. The member will be responsible for compiling an incident report and
 emailing the report to the central email account where possible
 (i.e. there is no conflict of interest).
@@ -29,26 +29,6 @@ and ensure any information is shared in a limited and effective way. An ideal
 resolution has an effective and mutually agreed upon remediation (for the
 organization and the reporter) while ensuring maximum privacy and discretion.
 
-### On-call duty
-
-In order to achieve a fast response time to received reports, we implement a
-month long on-call duty that is rotated between members of the Conduct
-Committee. On the first meeting of each month, we assign one member to be the
-primary person on duty and another member to be a secondary supporter. The
-committee roster and the schedule is managed via [On Call
-Roster](http://www.chipy.org/pages/conduct-on-call/).
-
-**Primary person on duty** is responsible for providing the initial response to
- a reporter, ideally within half a day. They're also responsible for either
- shepherding the received issue, or finding another member of the committee who
-  will commit to shepherding it.
-
-**Secondary person on duty** inherits the responsibilities of the primary person
- if they're not available.
-
-If all else fails, any member of the committee can step in and pick up an issue
- if they see that response hasn't been provided within a day.
-
 ### Initial response
 
 We aim to provide the initial response and acknowledgement of the received
@@ -60,15 +40,15 @@ reporter is informed of the case status:
 
 > Hi X,
 
-> Thank you so much for reporting this issue to the ChiPy Code of Conduct
+> Thank you so much for reporting this issue to the OPAG Code of Conduct
 Committee. I appreciate you taking the time to get in touch - reports like this
-help us to make ChiPy a better community.
+help us to make OPAG a better community.
 
 > We will discuss and get back to you with the outcome, and will keep this report
 on file. Meanwhile, if there is anything else we can do to help or support you,
 please do let us know.
 
-> Regards, > [First_name Last_name] > ChiPy Code of Conduct Committee
+> Regards, > [First Last name] > OPAG Code of Conduct Committee
 
 If the received report clearly states that the action has been taken already,
 and the issue is only reported to be kept on file in our central log, the
@@ -76,9 +56,9 @@ committee can close the issue by sending a simple acknowledgement:
 
 > Hi [X],
 
-> Thank you so much for reporting this issue to the ChiPy Code of Conduct
+> Thank you so much for reporting this issue to the OPAG Code of Conduct
 Committee. I appreciate you taking the time to get in touch - reports like this
-help us to make ChiPy a better community. The action you've taken so far seems
+help us to make OPAG a better community. The action you've taken so far seems
 appropriate, and I'd like to thank you for handling the issue with care.
 
 > We're going to keep this report on file to look for patterns in the future
@@ -87,7 +67,7 @@ you, please do let us know.
 
 > Thank you again!
 
-> Regards, > [First Last name] > ChiPy Code of Conduct Committee
+> Regards, > [First Last name] > OPAG Code of Conduct Committee
 
 The first responder should also add a record of the report in our files.
 
@@ -99,8 +79,7 @@ We aim to resolve any report received within two-weeks.
 
 In order to resolve reports timely and efficiently, we use "shepherding", a
 practice of assigning a member of the committee to "own" an issue from the
-initial report until it is resolved. The shepherd does not have to be the
-person who is on duty that week. A member can suggest themselves as a shepherd
+initial report until it is resolved. A member can suggest themselves as a shepherd
 for an issue, but must take into consideration:
 
 - **Biases** - If the shepherd has any bias towards the issue (such as knowing
@@ -122,13 +101,13 @@ initial responder should send an update:
 
  > Dear [X],
 
-> I'm writing in regard to your recent report to the ChiPy Code of Conduct
+> I'm writing in regard to your recent report to the OPAG Code of Conduct
 Committee. I wanted to let you know that we have assigned the case to [Y], who
 will be your main point of contact going forward. [Y]'s email address is
 [E]. If you have any questions or concerns with this, please
 let me know.
 
-> Regards, > [First Last name] > ChiPy Code of Conduct Committee
+> Regards, > [First Last name] > OPAG Code of Conduct Committee
 
 Assuming no questions or concerns, this marks the completion of the initial
 responder's responsibilities for this case. If the reporter does have concerns
@@ -164,11 +143,10 @@ clear understanding of the issue, what occurred, who is involved, and what is
 the severity of the issue.
 
 - **Deciding actions** - Based on the evidence, the shepherd should propose to
-the committee the actions that should be taken to resolve the issue. The
-shepherd requires at least two members of the committee to agree on these
-actions. If the issue is severe enough to warrant group-level action (such as a
+the committee the actions that should be taken to resolve the issue.
+If the issue is severe enough to warrant group-level action (such as a
 ban from future events or removal from electronic services or legal action),
-the committee is responsible for providing a confidential report to the ChiPy
+the committee is responsible for providing a confidential report to the OPAG
 Organizers and initiate a motion for the intended action.
 
 ### After decisions are made
