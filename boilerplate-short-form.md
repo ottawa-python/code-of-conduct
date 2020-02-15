@@ -1,12 +1,12 @@
 :point_left: [Come back to index](README.md)
 
-# Ottawa Python Authors Group(opag) Code of Conduct
+# Ottawa Python Authors Group(OPAG) Code of Conduct
 
 ## Short form boilerplate for when the entire Code of Conduct is too much text
 
 ### Tiny length (e.g. for emails/press releases)
 
-Ottawa Python is dedicated to creating a welcoming experience for everyone.
+OPAG is dedicated to creating a welcoming experience for everyone.
 Our code of conduct can be found at: https://github.com/ottawa-python/code-of-conduct
 and you can contact the Ottawa Python Code of Conduct Committee at
 opag.conduct@gmail.com.
